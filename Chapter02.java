@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Arrays;
 
 
-public class Main {
+public class Chapter02 {
     public static void main(String[] args) {
         selectMinTest();
         selectionSortTest();
